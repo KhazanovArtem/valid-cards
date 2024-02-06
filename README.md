@@ -1,1 +1,1 @@
-[GH-Pages](https://khazanovartem.github.io/valid-cards/dist/)
+[GH-Pages](https://khazanovartem.github.io/game-goblin/dist/)
